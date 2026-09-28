@@ -1,5 +1,3 @@
-# albertus-allgemeine
-
 <!DOCTYPE html>
 <html lang="de" class="scroll-smooth">
 <head>
